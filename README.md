@@ -1,5 +1,9 @@
 # Whiteout
 
+> **Moved (2026-10-06).** Whiteout now lives in the Open LLMRI repo, under `mud/`, with its full
+> history: <https://github.com/AndrewSmigaj/OpenLLMRI/tree/one-mud/mud> (on the `one-mud` branch
+> until it merges into `main`). New work happens there; this repo is kept as it was.
+
 **Whiteout** is a text-forward, multiplayer, *systemic* survival-puzzle MUD on
 [Evennia](https://www.evennia.com/). Survivors of a snowy plane crash improvise with every
 object around them to outlast cold, injury, hunger and the coming winter until they are
